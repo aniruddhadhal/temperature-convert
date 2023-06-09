@@ -1,0 +1,58 @@
+.body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#temp1 {
+    background-color: rgb(161, 235, 118);
+    padding: 10rem;
+    text-align: center;
+    margin: 2rem;
+    border: 3px solid black;
+}
+
+#temp2 {
+    font-style: normal;
+    font-size: 3rem;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+#temp {
+    padding: 5px;
+    border: 1ps solid black;
+    margin-top: 10px;
+}
+
+#tempi {
+    padding: 5px;
+    border: 1ps solid black;
+    margin-top: 10px;
+    margin-left: 5px;
+    text-transform: uppercase;
+}
+
+#te {
+    padding: 7px;
+    margin-top: 20px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+#te:hover {
+    background-color: rgb(255, 145, 1);
+    color: rgb(255, 8, 0);
+}
+
+#resultcont {
+    margin: 10px;
+    margin-top: 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
